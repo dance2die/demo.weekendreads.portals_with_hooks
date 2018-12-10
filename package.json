@@ -1,0 +1,20 @@
+{
+  "name": "portals-with-hooks",
+  "version": "1.0.0",
+  "description": "r/reactjs Weekend Reads - https://www.reddit.com/r/reactjs/comments/a48z9m/weekend_reads_react_docs_on_portals/",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "next",
+    "react-dom": "next",
+    "react-scripts": "next"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
